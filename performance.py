@@ -3,6 +3,8 @@
 
 # performance.py
 
+#Copyright (c) 2015 Michael Halls-Moore
+
 from __future__ import print_function
 
 import numpy as np
